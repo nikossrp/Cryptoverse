@@ -2,6 +2,8 @@
 
 https://cryptoapp-by-nikossrp.netlify.app/
 
+[![crypto](https://github.com/nikossrp/Cryptoverse/blob/master/public/cryptoapp.png)](https://cryptoapp-by-nikossrp.netlify.app/)
+
 
 ## I have worked with the following libraries
 [React](https://reactjs.org/) <br>
