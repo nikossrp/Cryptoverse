@@ -5,10 +5,11 @@ https://cryptoapp-by-nikossrp.netlify.app/
 [![crypto](https://github.com/nikossrp/Cryptoverse/blob/master/public/cryptoapp.png)](https://cryptoapp-by-nikossrp.netlify.app/)
 
 
-## I have worked with the following libraries
-[React](https://reactjs.org/) <br>
-[Redux-toolkit](https://redux-toolkit.js.org/) <br>
-[Ant Design](https://ant.design/) <br>
+## Technologies Used
+- [React js](https://reactjs.org/)
+- [Express js](https://expressjs.com/)
+- [Redux](https://redux-toolkit.js.org/)
+- [Ant Design](https://ant.design/)
 
   Fetching data from two different APIs from https://rapidapi.com/
   1) [Coinranking](https://rapidapi.com/Coinranking/api/coinranking1/)
