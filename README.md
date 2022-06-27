@@ -18,5 +18,5 @@ If you want to run this project on your local machine firstly you need to instal
   npm install
 
 ### Run this project by typing
-
+  
   npm start
