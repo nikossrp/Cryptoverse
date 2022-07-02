@@ -14,7 +14,7 @@ const { Option } = Select;
 
 const News = ({ simplified }) => {
   
-  const [newsCategory, setNewsCategory] = useState('');
+  const [newsCategory, setNewsCategory] = useState('Cryptocurrency');
   
   
   const { data: cryptoNews, isFetching } = useGetCryptoNewsQuery({ newsCategory, count: simplified ? 6 : 120 });
